@@ -7,7 +7,7 @@ let cocomeroPresente = false;
 for (let i = 0; i < fruttaFrigorifero.length; i++) {
     if (fruttaFrigorifero[i] === 'cocomero') {
         cocomeroPresente = true;
-        break;
+        
     }
 }
 if (cocomeroPresente) {
